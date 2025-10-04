@@ -42,7 +42,7 @@ By leveraging **Python libraries** like Pandas, NumPy, Matplotlib, and Seaborn, 
 
 ## 📂 Dataset  
 
-- **File Name:** `mymoviedb.csv`  
+- **File:**   https://img.shields.io/badge/Python-Data%20Analysis-green
 - **Size:** 9,827 rows × 9 columns  
 - **Important Columns:**  
   - `Title` – Movie name  
@@ -95,11 +95,8 @@ The dataset was cleaned, preprocessed, and transformed before visualization.
 
 ---
 
----
-
 </div>  
 
----
 
 ## 📫 Contact  
 
