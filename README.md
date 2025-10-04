@@ -1,6 +1,6 @@
 <div align="center">  
 
-# 🎬 Movie Data Analysis  
+# 🎬 Movie Data Analysis   
 
 📊 *Exploratory Data Analysis (EDA) of Movie Dataset using Python*  
 
