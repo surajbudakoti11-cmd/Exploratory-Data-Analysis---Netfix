@@ -95,20 +95,7 @@ The dataset was cleaned, preprocessed, and transformed before visualization.
 
 ---
 
-## 🚀 Future Enhancements  
-
-- Perform **time-series analysis** to track popularity trends over decades.  
-- Explore correlations between **Popularity, Vote Count, and Vote Average**.  
-- Extend the analysis into an **interactive dashboard** using Plotly or Power BI.  
-- Apply **machine learning** to predict a movie’s popularity based on its features.  
-
 ---
-
-## 📸 Notebook Previews  
-
-<div align="center">  
-
-| ![EDA](https://img.shields.io/badge/Step-EDA-blue) | ![Cleaning](https://img.shields.io/badge/Step-Data%20Cleaning-green) | ![Visualization](https://img.shields.io/badge/Step-Visualization-orange) |  
 
 </div>  
 
