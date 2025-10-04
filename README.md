@@ -42,7 +42,7 @@ By leveraging **Python libraries** like Pandas, NumPy, Matplotlib, and Seaborn, 
 
 ## 📂 Dataset  
 
-- **File:**   https://img.shields.io/badge/Python-Data%20Analysis-green
+- **File:**   https://github.com/surajbudakoti11-cmd/Exploratory-Data-Analysis---Netfix/blob/main/mymoviedb%20(1).csv
 - **Size:** 9,827 rows × 9 columns  
 - **Important Columns:**  
   - `Title` – Movie name  
